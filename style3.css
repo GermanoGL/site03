@@ -1,0 +1,61 @@
+.gremio{
+    background-color:rgb(70, 157, 214);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+h1{
+    background-color: rgb(145, 191, 243);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 120px;
+    
+}
+button{
+    background-color: rgb(145, 191, 243);
+    width: 100px;
+    border-radius: 17px;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+body{
+    background-color: rgb(42, 39, 214);
+}
+.isalinda{
+    background-color: rgb(70, 157, 214);
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+    
+    
+}
+.foto1{
+display: flex;
+width:500px;
+border-radius: 17px;
+}
+.foto2{
+width: 500px;
+display: flex;
+border-radius: 17px;
+}
+.isameuamor{
+    background-color: rgb(70, 157, 214);
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;  
+
+}
+.foto3{
+    display: flex;
+width:400px;
+border-radius: 17px;
+}
+.foto4{
+    display: flex;
+width:400px;
+border-radius: 17px;
+}

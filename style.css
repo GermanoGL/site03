@@ -1,0 +1,68 @@
+.geral{
+    background-color: rgb(79, 153, 187);
+}
+.fotoeesc{
+    margin-top: 15px;
+   background-color: rgb(29, 128, 209); 
+   display: flex;
+   font-size: 30px;
+   
+}
+.bandeira{
+    width: 400px;
+    height: 250px;
+    
+}
+body{
+    background-color: rgb(42, 39, 214);
+}
+.cabecalho{
+    background-color: rgb(38, 151, 226);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.arena{
+    width: 500px;
+}
+.olimpico{
+    width: 510px;
+}
+.imum{
+height: 100px;
+}
+.imdois{
+    height: 100px;
+}
+.imtres{
+    height: 100px;
+}
+.rodape{
+    margin-top: 15px;
+    background-color: rgb(70, 157, 214);
+    display: flex;
+    justify-content: space-between;
+}
+.duasfotos{
+    margin-top: 15px;
+    background-color: rgb(39, 100, 192);
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    
+}
+.botoes{
+    display: flex ;
+    justify-content: space-between;
+    
+}
+button{
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(145, 191, 243);
+}
+h1{
+    background-color: rgb(145, 191, 243);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
